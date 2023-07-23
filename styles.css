@@ -12,10 +12,30 @@ body {
 h1 {
   font-family: "Great Vibes", cursive;
   text-align: center;
+  background-color: white;
+  text-decoration: underline;
+  border-radius: 5%;
 }
 
 h2 {
   font-family: "Neuton", serif;
   text-align: center;
   font-size: larger;
+}
+
+.web-builds {
+  text-align: center;
+}
+.app-builds {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: "Neuton", serif;
+  font-size: larger;
+}
+
+img {
+  margin-bottom: 20px;
 }
